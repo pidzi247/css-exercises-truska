@@ -1,0 +1,19 @@
+.odd-element {
+  background-color: lightpink;
+  font-family: Verdana, 'Courier New', sans-serif; 
+}
+
+.blue-big-text {
+  color: blue;
+  font-size: 36px;
+}
+
+.bold {
+  font-size: 24px;
+}
+
+.green-bold-text {
+  background-color: lightgreen;
+  font-size: 24px;
+  font-weight: bold;
+}
